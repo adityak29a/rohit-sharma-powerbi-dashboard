@@ -31,7 +31,3 @@ Interactive Power BI dashboard analyzing Rohit Sharma international cricket care
 * Data Visualization
 * Data Cleaning
 
-## Files
-
-* Rohit_Sharma.pbix
-
